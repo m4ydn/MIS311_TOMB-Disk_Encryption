@@ -1,4 +1,4 @@
-<p><span style="font-family: Helvetica;"># MIS311_TOMB-Disk_Encryption</span></p>
+# MIS311_TOMB-Disk_Encryption
 <hr>
 <p><span style="font-family: Helvetica;"><br></span></p>
 <p><span style="font-family: Helvetica;"><strong><em><span style="font-size: 24px;">Introduction</span></em></strong></span></p>
